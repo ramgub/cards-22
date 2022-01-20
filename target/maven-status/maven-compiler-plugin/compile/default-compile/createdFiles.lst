@@ -1,0 +1,7 @@
+axis\view\CatSimpleView.class
+axis\view\PersonSimpleView.class
+axis\model\Cat.class
+axis\view\CatWithOwnerView.class
+axis\repository\CatSimpleViewRepository.class
+axis\config\BlazePersistenceConfiguration.class
+axis\model\Person.class
